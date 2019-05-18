@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+
+#brandName {
+    font-family: 'Exo 2', sans-serif;
+}
+h1 {    
+    /* TODO: need to fix so it only applies to one h1 */
+    font-family: 'Exo 2', sans-serif;
+    color: #D19B00;
+}
+
+.contactButton {
+    color: #494949 !important;
+    text-transform: uppercase;
+    background: lightgray;
+    padding: 20px;
+    border: 4px solid #494949 !important;
+    border-radius: 6px;
+    display: inline-block;
+}
+    
+.contactButton:hover {
+    color: #ffffff !important;
+    background: #D19B00;
+    border-color: #D19B00 !important;
+    transition: all 0.4s ease 0s;
+}
+.contactButton a:hover {
+    font-weight: bolder;
+    color: #000CBD;
+}
+
+
+button a {
+    color: black;
+    border: none;
+    text-decoration: none;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 15px;
+}
+
+.contactForm {
+   height: 250px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+p {
+    font-family: 'Exo 2', sans-serif;
+    text-align: center;
+    font-weight: 500;
+}
+input[type=text],input[type=email], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+
+

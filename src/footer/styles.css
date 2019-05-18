@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+
+#brandName {
+    font-family: 'Exo 2', sans-serif;
+}
+.footer {
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.877);
+    /* padding-right: 5px; */
+}
+
+.navItem {
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    /* padding: 5px; */
+    color: rgb(104, 107, 156);
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    border-radius: 4px;
+    font-weight: bolder;
+}
+.navItem:active {
+    border-bottom: 3px solid #B58C0E;
+}
+
+.navItem:hover {
+    color:#000CBD;
+}
+
+p {
+    font-size: 17px;
+}
