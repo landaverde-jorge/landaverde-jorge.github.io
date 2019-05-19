@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.84c8d362.chunk.css",
+    "main.js": "/static/js/main.c00e8bd8.chunk.js",
+    "main.js.map": "/static/js/main.c00e8bd8.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.cc0c5c28.chunk.js": "/static/js/2.cc0c5c28.chunk.js",
+    "static/js/2.cc0c5c28.chunk.js.map": "/static/js/2.cc0c5c28.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.50bc4c94707ccf18282d22acb1edef12.js": "/precache-manifest.50bc4c94707ccf18282d22acb1edef12.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.84c8d362.chunk.css.map": "/static/css/main.84c8d362.chunk.css.map",
+    "static/media/NasaCollage.jpg": "/static/media/NasaCollage.8f98783a.jpg",
+    "static/media/QualcommHackJuntos.jpg": "/static/media/QualcommHackJuntos.01e3ecb8.jpg",
+    "static/media/cpp.svg": "/static/media/cpp.b939e9bb.svg",
+    "static/media/css.svg": "/static/media/css.56da8500.svg",
+    "static/media/fbYoPuedoProg.jpg": "/static/media/fbYoPuedoProg.bc213bb6.jpg",
+    "static/media/github_logo.svg": "/static/media/github_logo.76d344f0.svg",
+    "static/media/html5.svg": "/static/media/html5.6fabdf23.svg",
+    "static/media/java1.svg": "/static/media/java1.d419db0e.svg",
+    "static/media/jorge_antonio_landaverde_resume.pdf": "/static/media/jorge_antonio_landaverde_resume.31bdbaa1.pdf",
+    "static/media/js.svg": "/static/media/js.d4530eb3.svg",
+    "static/media/profpicsquare.jpg": "/static/media/profpicsquare.00a4ed1c.jpg",
+    "static/media/python.svg": "/static/media/python.9587af90.svg",
+    "static/media/reactB.svg": "/static/media/reactB.5de7e7d4.svg"
+  }
+}
